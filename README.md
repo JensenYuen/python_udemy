@@ -1,2 +1,2 @@
-# python_udemy
+# python
 Python3 course on Udemy 
